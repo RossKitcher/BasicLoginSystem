@@ -1,0 +1,22 @@
+body {
+  font-size: 18px;
+}
+main {
+  margin-top: 80px;
+}
+.signup-error {
+  margin-top: 2rem;
+  background-color: #f76565;
+  padding: .4rem;
+  border-radius: 15px;
+  font-weight: 700;
+  font-size: 22px;
+}
+.signup-success {
+  margin-top: 2rem;
+  background-color: #80ff80;
+  padding: .4rem;
+  border-radius: 15px;
+  font-weight: 700;
+  font-size: 22px;
+}
